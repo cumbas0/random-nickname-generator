@@ -2,7 +2,7 @@
 
 
 # Gerekli kurulumlar;
-1 - Dosyayı  indirin
+1 - Dosyayı  indirin 
 2 - CMD ( Komut satırı ) üzerinden dosyanın  içine girin
 3 - npm install inquirer @faker-js/faker
 4 - Modulleri indirin
